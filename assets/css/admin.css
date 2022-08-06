@@ -1,0 +1,47 @@
+
+.mcq_q_rptr_del {
+    color: red;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 2px 5px;
+}
+
+.mcq_q-frm-grp {
+    border: solid 1px grey;
+    padding: 5px 0;
+    margin-bottom: 5px;
+}
+
+.mcq_q-frm-grp input {
+    padding: 5px;
+    width: 50%;
+    margin: 5px 0 2px 5%;
+}
+
+.mcq_q-frm-grp label {
+    width: 20%;
+    font-size: 1.2em;
+    padding: 10px 5px;
+    display: block;
+}
+
+.mcq_q-frm-rptr {
+
+}
+
+.mcq_q-frm-rptr input {
+    margin: 5px 0 2px 5%;
+}
+
+.mcq_q-btn {
+    padding: 10px;
+    font-weight: bold;
+}
+
+.mcq_q-btn.mcq_q-btn-primary {
+    color: blue;
+}
+
+.mcq_q-btn.mcq_q-btn-primary.mcq_q-btn-rptr {
+    margin: 10px 5px 5px 5%;
+}
